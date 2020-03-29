@@ -26,9 +26,13 @@ npm install
 ```
 
 ## Run Project
-#### To execute the code just type the following commands in the directory of each project:
+##### To execute the code, just type the following commands in the directory of each project folder (frontend, backend, mobile):
 ```
 npm start
 ```
+##### Website
+The website will open at http://localhost:3000
+##### Mobile
+To open the application on mobile, you need to download the "expo" app on your smartphone on Google Play or App Store, and scan the QR Code that will appear at the address http://localhost:19002 inside the expo.
 ## Links
 - [Rockseat](https://rocketseat.com.br/)
