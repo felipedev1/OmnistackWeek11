@@ -6,6 +6,8 @@
 
 Building a complete application with **Node.js** on the back end, **ReactJS** on the front end and **React Native** on mobile.
 
+___
+
 ## Getting Started
 
 #### To run the project, you will need to install the next programs:
@@ -18,21 +20,28 @@ Building a complete application with **Node.js** on the back end, **ReactJS** on
   ```git
   $ git clone https://github.com/felipedev1/OmnistackWeek11.git
   ```
+  
+  ___
+ 
  ## Build
  
 #### To build the project you need to download all the dependencies of each project file by executing the next command in its respective directory:
 ```
 npm install
 ```
+___
 
 ## Run Project
-##### To execute the code, just type the following commands in the directory of each project folder (frontend, backend, mobile):
+##### - To execute the code, just type the following commands in the directory of each project folder (frontend, backend, mobile):
 ```
 npm start
 ```
-##### Website
+##### - Website
 The website will open at http://localhost:3000
-##### Mobile
+##### - Mobile
 To open the application on mobile, you need to download the "expo" app on your smartphone on Google Play or App Store, and scan the QR Code that will appear at the address http://localhost:19002 inside the expo.
+
+___
+
 ## Links
 - [Rockseat](https://rocketseat.com.br/)
